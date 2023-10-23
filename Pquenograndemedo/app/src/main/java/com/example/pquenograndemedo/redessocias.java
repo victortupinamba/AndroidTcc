@@ -23,14 +23,14 @@ public class redessocias extends AppCompatActivity {
 
         @SuppressLint({"MissingInflatedId", "LocalSuppress"}) Button btnInstagram = findViewById(R.id.btnInstagram);
         btnInstagram.setOnClickListener(v -> {
-            String url = "https://www.instagram.com/scary_sleep/";
+            String url = "https://instagram.com/sirius_entmt?igshid=MzRlODBiNWFlZA==";
             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
             startActivity(intent);
         });
 
         @SuppressLint({"MissingInflatedId", "LocalSuppress"}) Button btnThreads = findViewById(R.id.btnThreads);
         btnThreads.setOnClickListener(v -> {
-            String url = "https://www.threads.net/@scary_sleep";
+            String url = "https://www.linkedin.com/in/sirius-entertainment-5824b5270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app";
             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
             startActivity(intent);
         });
