@@ -15,7 +15,7 @@
         android:layout_marginTop="170dp"
         android:layout_marginEnd="57dp"
         android:layout_marginBottom="119dp"
-        android:fontFamily="@font/ravi_prakash"
+        android:justificationMode="inter_word"
         android:text="@string/textSaia"
         android:textAlignment="center"
         android:textColor="@color/white"
