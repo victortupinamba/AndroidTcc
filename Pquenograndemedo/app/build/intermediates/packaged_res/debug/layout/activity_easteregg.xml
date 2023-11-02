@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/whatsapp_image_2023_10_23_at_09_09_50"
+    tools:context=".easteregg">
+
+    <TextView
+        android:id="@+id/textSaia"
+        android:layout_width="280dp"
+        android:layout_height="412dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="119dp"
+        android:justificationMode="inter_word"
+        android:text="@string/textSaia"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,VisualLintLongText,VisualLintBounds,TextSizeCheck" />
+
+
+    <Button
+        android:id="@+id/buttonvolt"
+        android:layout_width="124dp"
+        android:layout_height="72dp"
+
+        android:backgroundTint="#A46B97"
+        android:text="@string/btnPlaylist"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textSaia" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

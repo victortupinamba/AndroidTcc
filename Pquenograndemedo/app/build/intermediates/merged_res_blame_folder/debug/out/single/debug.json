@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/font_black_and_white_picture.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/font/black_and_white_picture.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_lucinius_icon.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/lucinius_icon.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_enredo.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/enredo.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_whatsapp_image_2023_10_23_at_09_09_50.jpeg.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/whatsapp_image_2023_10_23_at_09_09_50.jpeg"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_fundo.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/fundo.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/layout_activity_easteregg.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/layout/activity_easteregg.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_menu.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/menu.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_fanst_button.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/fanst_button.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_redes_sociais.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/redes_sociais.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_barata__1_.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/barata__1_.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_n_zula_icon.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/n_zula_icon.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_fantasma_removebg_preview.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/fantasma_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_sprites_cheer.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/sprites_cheer.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_estela.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/estela.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_whatsapp_image_2023_10_23_at_09_09_50__1_.jpeg.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/whatsapp_image_2023_10_23_at_09_09_50__1_.jpeg"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_saias1.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/saias1.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_barata_frame1.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/barata_frame1.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_karoj_icon.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/karoj_icon.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable___redesocial.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/__redesocial.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/layout_activity_historia.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/layout/activity_historia.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_stella___icon.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/stella___icon.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_whatsapp_image_2023_10_22_at_19_57_45__1_.jpeg.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/whatsapp_image_2023_10_22_at_19_57_45__1_.jpeg"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable___historia.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/__historia.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_personagens.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/personagens.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_whatsapp_image_2023_10_22_at_19_57_45.jpeg.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/whatsapp_image_2023_10_22_at_19_57_45.jpeg"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_sirius_entertainemen.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/sirius_entertainemen.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/layout_activity_redessocias.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/layout/activity_redessocias.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_easteregg.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/easteregg.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable___removebg_preview.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/__removebg_preview.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_boss.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/boss.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/layout_activity_personagem.xml.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/layout/activity_personagem.xml"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_playlist.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/playlist.png"
+    },
+    {
+        "merged": "com.example.pquenograndemedo.app-merged_res-28:/drawable_saiafilo.png.flat",
+        "source": "com.example.pquenograndemedo.app-main-30:/drawable/saiafilo.png"
+    }
+]
