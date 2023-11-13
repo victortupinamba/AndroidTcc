@@ -28,12 +28,13 @@
         tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,VisualLintLongText,VisualLintBounds,TextSizeCheck" />
 
 
-    <Button
+    <ImageButton
         android:id="@+id/buttonvolt"
-        android:layout_width="124dp"
-        android:layout_height="72dp"
-
-        android:backgroundTint="#A46B97"
+        android:contentDescription="Botao que volta para a activity main"
+        android:layout_width="253dp"
+        android:layout_height="135dp"
+        android:backgroundTint="@color/invisivel"
+        android:src="@drawable/_14_removebg_preview"
         android:text="@string/btnPlaylist"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

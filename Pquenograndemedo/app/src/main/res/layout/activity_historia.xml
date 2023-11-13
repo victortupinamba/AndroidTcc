@@ -25,19 +25,22 @@
         app:layout_constraintVertical_bias="0.01"
         tools:ignore="HardcodedText,MissingConstraints,TextSizeCheck" />
 
-    <Button
+    <ImageButton
         android:id="@+id/buttonvtr"
-        android:layout_width="124dp"
-        android:layout_height="72dp"
+        android:contentDescription="Botão que volta para a activity main"
+        android:layout_width="253dp"
+        android:layout_height="125dp"
         android:layout_marginStart="176dp"
         android:layout_marginTop="7dp"
         android:layout_marginEnd="176dp"
         android:layout_marginBottom="31dp"
-        android:backgroundTint="#A46B97"
+        android:backgroundTint="@color/invisivel"
+        android:src="@drawable/_14_removebg_preview"
         android:text="@string/btnPlaylist"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textHistoria" />
+        app:layout_constraintTop_toBottomOf="@+id/textHistoria"
+        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

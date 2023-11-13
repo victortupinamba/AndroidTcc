@@ -18,12 +18,7 @@
         <activity
             android:name=".easteregg"
             android:exported="false" />
-        <activity
-            android:name=".playlist"
-            android:exported="false" />
-        <activity
-            android:name=".boss"
-            android:exported="false" />
+
         <activity
             android:name=".personagem"
             android:exported="false" />
