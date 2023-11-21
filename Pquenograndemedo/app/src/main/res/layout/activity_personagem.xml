@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/whatsapp_image_2023_10_23_at_09_09_50__1_"
+    android:background="@drawable/_tela3"
     tools:context=".personagem">
 
 
@@ -82,7 +82,7 @@
                 android:layout_height="320dp"
                 android:layout_gravity="center"
                 android:justificationMode="inter_word"
-                android:text="@string/textEastereeg"
+                android:text="@string/btnEasterEgg"
                 android:textColor="@color/white" />
 
 

@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/whatsapp_image_2023_10_23_at_09_09_50"
+    android:background="@drawable/_tela5"
     tools:context=".easteregg">
+
 
     <TextView
         android:id="@+id/textSaia"
@@ -22,11 +23,11 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintHorizontal_bias="0.75"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.966"
         tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,VisualLintLongText,VisualLintBounds,TextSizeCheck" />
-
 
     <ImageButton
         android:id="@+id/buttonvolt"

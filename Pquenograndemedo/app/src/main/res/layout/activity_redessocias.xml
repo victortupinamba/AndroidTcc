@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/whatsapp_image_2023_10_22_at_19_57_45__1_"
+    android:background="@drawable/_tela4"
     tools:context=".redessocias">
 
     <ImageButton
@@ -23,7 +23,7 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/btnThreads"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.161"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
@@ -33,7 +33,7 @@
         android:layout_width="253dp"
         android:layout_height="135dp"
         android:layout_marginStart="180dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="70dp"
         android:backgroundTint="@color/invisivel"
         android:contentDescription="Botão que abre o linkedin"
@@ -59,7 +59,7 @@
         android:text="@string/btnPlaylist"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.463"
+        app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnThreads"
         app:layout_constraintVertical_bias="0.0" />
