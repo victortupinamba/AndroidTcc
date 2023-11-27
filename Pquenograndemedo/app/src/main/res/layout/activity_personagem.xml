@@ -53,7 +53,8 @@
                 android:justificationMode="inter_word"
                 android:text="@string/textTitulo"
                 android:layout_gravity="center"
-                android:textColor="@color/white" />
+                android:textColor="@color/white"
+                android:textSize="16sp" />
 
             <ImageView
                 android:id="@+id/imageView3"
@@ -68,7 +69,9 @@
                 android:layout_gravity="center"
                 android:justificationMode="inter_word"
                 android:text="@string/textTituloEnredo"
-                android:textColor="@color/white" />
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                />
 
             <ImageView
                 android:id="@+id/imageView4"
@@ -82,8 +85,10 @@
                 android:layout_height="320dp"
                 android:layout_gravity="center"
                 android:justificationMode="inter_word"
-                android:text="@string/btnEasterEgg"
-                android:textColor="@color/white" />
+                android:text="@string/textEasterEgg"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                />
 
 
             <ImageButton
