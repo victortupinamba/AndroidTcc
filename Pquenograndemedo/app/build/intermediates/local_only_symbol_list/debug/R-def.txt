@@ -13,6 +13,11 @@ drawable _2_removebg_preview
 drawable __historia
 drawable __redesocial
 drawable __removebg_preview
+drawable _tela1
+drawable _tela2
+drawable _tela3
+drawable _tela4
+drawable _tela5
 drawable barata__1_
 drawable barata_frame1
 drawable boss

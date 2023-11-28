@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/telaenredo"
+    android:background="@drawable/_tela2"
     tools:context=".historia">
 
 
@@ -12,7 +12,7 @@
         android:id="@+id/textHistoria"
         android:layout_width="340dp"
         android:layout_height="450dp"
-        android:layout_marginTop="170dp"
+        android:layout_marginTop="150dp"
         android:justificationMode="inter_word"
         android:text="@string/textEnredo"
         android:textAlignment="center"
@@ -20,21 +20,22 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.01"
+        app:layout_constraintVertical_bias="0.0"
         tools:ignore="HardcodedText,MissingConstraints,TextSizeCheck" />
 
     <ImageButton
         android:id="@+id/buttonvtr"
-        android:contentDescription="Botão que volta para a activity main"
         android:layout_width="253dp"
         android:layout_height="125dp"
         android:layout_marginStart="176dp"
-        android:layout_marginTop="7dp"
+        android:layout_marginTop="18dp"
         android:layout_marginEnd="176dp"
         android:layout_marginBottom="31dp"
         android:backgroundTint="@color/invisivel"
+        android:contentDescription="Botão que volta para a activity main"
         android:src="@drawable/_14_removebg_preview"
         android:text="@string/btnPlaylist"
         app:layout_constraintBottom_toBottomOf="parent"
